@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kyzman&label=Profile%20views&color=0e75b6&style=flat" alt="kyzman" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kyzman&label=Page%20load%20count&color=0e75b6&style=flat" alt="kyzman" /> </p>
 
 <!--
 **kyzman/kyzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
