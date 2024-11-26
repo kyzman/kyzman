@@ -1,6 +1,11 @@
-## Hi there 👋
+## Привет! 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyzman&label=Page%20load%20count&color=0e75b6&style=flat" alt="kyzman" /> </p>
+
+<h3 align="left">Связаться со мной:</h3>
+<p align="left">
+<a href="https://t.me/kyzmian"><img align="center" src="https://telegram.org/img/apple-touch-icon.png" height="40" width="40"></a>
+</p>
 
 <!--
 **kyzman/kyzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
